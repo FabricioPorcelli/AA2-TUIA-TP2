@@ -1,0 +1,9 @@
+tensorflow 
+tensorflow-datasets 
+librosa 
+numpy 
+pandas 
+matplotlib 
+seaborn 
+scikit-learn
+pydub
